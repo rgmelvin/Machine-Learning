@@ -1,4 +1,4 @@
-# Final Questions
+# Final Questions (Reseampling)
 
 1. Which model had the best balanced accuracy score?
 

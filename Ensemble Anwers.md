@@ -1,4 +1,4 @@
-### Final Questions
+### Final Questions (Ensemble models)
 
 1. Which model had the best balanced accuracy score?
 

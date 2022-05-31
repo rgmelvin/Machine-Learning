@@ -34,7 +34,7 @@
 3. Which model had the best geometric mean score?
 
     All of the models had the same geometric mean score.
-  |Model|Risk|Geometric Mean Score|
+    |Model|Risk|Geometric Mean Score|
     |:---:|:-:|:----------:|
     |SLR|High|0.99|
     ||Low|0.99|
